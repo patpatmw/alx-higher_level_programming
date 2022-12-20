@@ -2,10 +2,6 @@
 
 import sys
 
-
-
-
-
 def safe_function(fct, *args):
 
     try:
